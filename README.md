@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓 I’m a **BS Computer Science** student at the **University of the Philippines - Los Baños**.
+
 💡 I'm passionate about **Machine Learning** and **Computer Vision**, and I'm constantly working on improving my skills as a **programmer** and **developer**.
 
 ### 📫 Let's connect!
